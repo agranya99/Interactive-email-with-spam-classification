@@ -1,3 +1,4 @@
+#Supporting code that performs Naive Bayes classification. Includes training and testing
 import sys
 import os
 import re
