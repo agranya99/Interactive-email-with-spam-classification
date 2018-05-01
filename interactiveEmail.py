@@ -1,3 +1,4 @@
+#Main code that segregates spam and non-spam emails and provides basic UI for the user to read non-spam emails.
 import os
 from argparse import ArgumentParser as parser
 from classifier import *
